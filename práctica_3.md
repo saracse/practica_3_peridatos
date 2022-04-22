@@ -2,3 +2,4 @@ La práctica tres es el resultado del trabajo realizado en clase para familiariz
 
 Empezamos haciendo una prueba para tantear el terreno y utilizamos distintas funciones, como por ejemplo añadir gráficos u operaciones arigméticas.
 
+En el siguiente archivo trabajamos con datos del Ayuntamiento de Zaragoza, en concreto datos sobre accidentes de tráfico. El objetivo era conocer las diversas funciones de "Folium", folium permite la visualización de datos en Python.
